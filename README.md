@@ -1,5 +1,5 @@
-# juan.me
-Code of my landing page [juan.me](http://juan.me/)
+# amandanyc.art
+Code of my landing page [juan.me](https://amandanyc.art/)
 
 ## Build
 This page was built using [node-frontend-build](https://github.com/juancabrera/node-frontend-build)
